@@ -1,0 +1,6 @@
+C:\Users\iigro\RiderProjects\HelloWorld\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\iigro\RiderProjects\HelloWorld\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\iigro\RiderProjects\HelloWorld\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.AssemblyReference.cache
+C:\Users\iigro\RiderProjects\HelloWorld\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
+C:\Users\iigro\RiderProjects\HelloWorld\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\iigro\RiderProjects\HelloWorld\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

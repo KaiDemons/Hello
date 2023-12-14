@@ -1,0 +1,6 @@
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication10 2.5\bin\Debug\ConsoleApplication10_2._5.exe
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication10 2.5\bin\Debug\ConsoleApplication10_2._5.pdb
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication10 2.5\obj\Debug\ConsoleApplication10 2.5.csprojAssemblyReference.cache
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication10 2.5\obj\Debug\ConsoleApplication10 2.5.csproj.CoreCompileInputs.cache
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication10 2.5\obj\Debug\ConsoleApplication10_2._5.exe
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication10 2.5\obj\Debug\ConsoleApplication10_2._5.pdb
