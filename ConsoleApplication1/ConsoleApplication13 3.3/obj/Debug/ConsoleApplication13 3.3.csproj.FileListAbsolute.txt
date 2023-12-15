@@ -1,0 +1,6 @@
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication13 3.3\bin\Debug\ConsoleApplication3_3._3.exe
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication13 3.3\bin\Debug\ConsoleApplication3_3._3.pdb
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication13 3.3\obj\Debug\ConsoleApplication13 3.3.csprojAssemblyReference.cache
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication13 3.3\obj\Debug\ConsoleApplication13 3.3.csproj.CoreCompileInputs.cache
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication13 3.3\obj\Debug\ConsoleApplication3_3._3.exe
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication13 3.3\obj\Debug\ConsoleApplication3_3._3.pdb
