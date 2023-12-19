@@ -1,0 +1,2 @@
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication30 6.6\obj\Debug\ConsoleApplication30 6.6.csproj.AssemblyReference.cache
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication30 6.6\obj\Debug\ConsoleApplication30 6.6.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication28 6.4\bin\Debug\ConsoleApplication28_6._4.exe
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication28 6.4\bin\Debug\ConsoleApplication28_6._4.pdb
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication28 6.4\obj\Debug\ConsoleApplication28 6.4.csproj.AssemblyReference.cache
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication28 6.4\obj\Debug\ConsoleApplication28 6.4.csproj.CoreCompileInputs.cache
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication28 6.4\obj\Debug\ConsoleApplication28_6._4.exe
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication28 6.4\obj\Debug\ConsoleApplication28_6._4.pdb
