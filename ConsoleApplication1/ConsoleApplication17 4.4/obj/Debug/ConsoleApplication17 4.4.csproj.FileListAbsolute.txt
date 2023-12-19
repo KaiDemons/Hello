@@ -4,3 +4,9 @@ C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication17 4.4\
 C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication17 4.4\obj\Debug\ConsoleApplication17 4.4.csproj.CoreCompileInputs.cache
 C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication17 4.4\obj\Debug\ConsoleApplication17_4._4.exe
 C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication17 4.4\obj\Debug\ConsoleApplication17_4._4.pdb
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication17 4.4\obj\Debug\ConsoleApplication17_4._4.exe
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication17 4.4\obj\Debug\ConsoleApplication17_4._4.pdb
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication17 4.4\bin\Debug\ConsoleApplication17_4._4.exe
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication17 4.4\bin\Debug\ConsoleApplication17_4._4.pdb
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication17 4.4\obj\Debug\ConsoleApplication17 4.4.csproj.AssemblyReference.cache
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication17 4.4\obj\Debug\ConsoleApplication17 4.4.csproj.CoreCompileInputs.cache

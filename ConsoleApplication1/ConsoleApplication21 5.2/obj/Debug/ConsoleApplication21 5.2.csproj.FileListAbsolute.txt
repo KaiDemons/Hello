@@ -4,3 +4,9 @@ C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication21 5.2\
 C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication21 5.2\obj\Debug\ConsoleApplication21 5.2.csproj.CoreCompileInputs.cache
 C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication21 5.2\obj\Debug\ConsoleApplication21_5._2.exe
 C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication21 5.2\obj\Debug\ConsoleApplication21_5._2.pdb
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication21 5.2\obj\Debug\ConsoleApplication21_5._2.exe
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication21 5.2\obj\Debug\ConsoleApplication21_5._2.pdb
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication21 5.2\bin\Debug\ConsoleApplication21_5._2.exe
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication21 5.2\bin\Debug\ConsoleApplication21_5._2.pdb
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication21 5.2\obj\Debug\ConsoleApplication21 5.2.csproj.AssemblyReference.cache
+C:\Users\iigro\RiderProjects\Hello\ConsoleApplication1\ConsoleApplication21 5.2\obj\Debug\ConsoleApplication21 5.2.csproj.CoreCompileInputs.cache
