@@ -1,18 +1,19 @@
 ﻿using System;
 
-    Random random = new Random();
-    int arraySize = random.Next(5, 10); // случайный размер массива от 5 до 10
+Random random = new Random();
+int length = random.Next(1, 10);
+double[] array = new double[length];
+for (int i = 0; i < length; i++)
+{
+    array[i] = random.NextDouble() * (random.Next(0, 2) >= 1 ? -1 : 1);
+}
 
-    double[] array = new double[arraySize]; // создание массива заданного размера
+double[] positiveElements = Array.FindAll(array, element => element > 0);
+double[] negativeElements = Array.FindAll(array, element => element < 0);
 
-    for (int i = 0; i < arraySize; i++)
-    {
-        array[i] = random.NextDouble() * (10 - (-10)) + (-10); // заполнение массива случайными дробными числами от -10 до 10
-    }
+string[] positiveStrings = Array.ConvertAll(positiveElements, element => element.ToString());
+string[] negativeStrings = Array.ConvertAll(negativeElements, element => element.ToString());
 
-    double[] positiveArray = Array.FindAll(array, x => x > 0); // массив с положительными элементами
-    double[] negativeArray = Array.FindAll(array, x => x < 0); // массив с отрицательными элементами
-
-    Console.WriteLine("Исходный массив: " + string.Join(", ", array));
-    Console.WriteLine("Положительные элементы: " + string.Join(", ", positiveArray));
-    Console.WriteLine("Отрицательные элементы: " + string.Join(", ", negativeArray));
+Console.WriteLine("Source array: " + string.Join(", ", Array.ConvertAll(array, element => element.ToString())));
+Console.WriteLine("Positive elements: " + string.Join(", ", positiveStrings));
+Console.WriteLine("Negative elements: " + string.Join(", ", negativeStrings));
