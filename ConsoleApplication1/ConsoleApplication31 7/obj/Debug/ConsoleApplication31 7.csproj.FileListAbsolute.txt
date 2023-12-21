@@ -1,0 +1,9 @@
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication31 7\obj\Debug\ConsoleApplication31 7.csproj.AssemblyReference.cache
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication31 7\obj\Debug\ConsoleApplication31 7.csproj.CoreCompileInputs.cache
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication31 7\bin\Debug\ConsoleApplication31_7.exe
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication31 7\bin\Debug\ConsoleApplication31_7.pdb
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication31 7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication31 7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication31 7\obj\Debug\ConsoleApplication31 7.csproj.CopyComplete
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication31 7\obj\Debug\ConsoleApplication31_7.exe
+C:\Users\gr624_praev\RiderProjects\ConsoleApplication1\ConsoleApplication31 7\obj\Debug\ConsoleApplication31_7.pdb
